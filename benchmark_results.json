@@ -1,0 +1,66 @@
+[
+  {
+    "sample": "english",
+    "beam": 3,
+    "median_ms": 1469.0,
+    "runs_ms": [
+      1469.0,
+      1453.0,
+      1578.0
+    ],
+    "technical_terms_matched_out_of_3": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "sample": "english",
+    "beam": 1,
+    "median_ms": 1485.0,
+    "runs_ms": [
+      1406.0,
+      1485.0,
+      1625.0
+    ],
+    "technical_terms_matched_out_of_3": [
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "sample": "english",
+    "silence_ms": 900,
+    "utterance_count": 1
+  },
+  {
+    "sample": "english",
+    "silence_ms": 690,
+    "utterance_count": 1
+  },
+  {
+    "sample": "hinglish",
+    "status": "sample unavailable"
+  },
+  {
+    "sample": "750ms_internal_pause_stress",
+    "silence_ms": 900,
+    "utterance_count": 1
+  },
+  {
+    "sample": "paced_silence_simulation",
+    "silence_ms": 900,
+    "finalize_ms": 922.0
+  },
+  {
+    "sample": "750ms_internal_pause_stress",
+    "silence_ms": 690,
+    "utterance_count": 2
+  },
+  {
+    "sample": "paced_silence_simulation",
+    "silence_ms": 690,
+    "finalize_ms": 687.0
+  }
+]
